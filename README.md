@@ -1,0 +1,3 @@
+The Cargo Delivery Simulation
+
+This project simulates a cargo delivery system in Java, leveraging doubly linked lists, stacks, and queues to efficiently manage logistics operations. It reads data from input files containing cities, packages, vehicles, and missions, processes deliveries based on predefined missions, and generates a results file reflecting the final status of each city's distribution center. The system ensures proper package handling using stack principles and vehicle dispatching using queue principles, making it a practical implementation of fundamental data structures in a real-world scenario.
