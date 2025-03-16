@@ -1,0 +1,4 @@
+V1 Roma 3.2
+V2 Milano 6.5
+V3 Milano 2.3
+V4 Floransa 3.7
